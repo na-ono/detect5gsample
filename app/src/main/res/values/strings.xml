@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Detect5gSample</string>
+    <string name="override_network_type">OverrideNetworkType</string>
+    <string name="temporarily_not_metered">NET_CAPABILITY_TEMPORARILY_NOT_METERED</string>
+    <string name="not_metered">NET_CAPABILITY_NOT_METERED</string>
+    <string name="band_width_down">LinkDownstreamBandwidthKbps</string>
+    <string name="band_width_up">LinkUpstreamBandwidthKbps</string>
+    <string name="permission_message">※Settingsから電話のパーミッションを手動で取得してください</string>
+</resources>
